@@ -24,9 +24,9 @@ for i in range(len(listkeys)):
             data = Counter(v)
             x=data.most_common(1)[0][1]
             if x>1 :
-                print("h pio dhmofiles timh einai: ",data.most_common(1)[0][0])
+                print("h dhmofilesterh timh einai: ",data.most_common(1)[0][0])
         else:
             data = Counter(v)
             x=data.most_common(1)[0][1]
             if x>1:
-                print("h pio dhmofiles timh einai: ",data.most_common(1)[0][0])
+                print("h dhmofilesterh timh einai: ",data.most_common(1)[0][0])
